@@ -1,5 +1,11 @@
 # How to use
 
+**System requirements**
+- docker
+- aws cli
+- cdk cli
+- connected aws account
+
 Clone the repo and open in terminal. Then run
 
 ```
