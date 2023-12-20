@@ -37,3 +37,4 @@ Some things I would work on if I had more time for scalability:
 - SNS configurtion to use FIFO topics
 - More specific IAM roles to improve security
 - Set up CloudWatch Alarms
+- Use partitioning strategies to optimise the DB
