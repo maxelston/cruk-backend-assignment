@@ -6,7 +6,7 @@
 - cdk cli
 - connected aws account
 
-Clone the repo and open in terminal. Then run
+Clone the repo and navigate to the root of the folder in terminal. Then run:
 
 ```
 cdk synth
